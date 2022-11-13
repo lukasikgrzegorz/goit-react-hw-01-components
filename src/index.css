@@ -5,6 +5,8 @@ body {
   line-height: 1.5;
   background-color: #E8E8E8;
   box-sizing: border-box;
+  display: flex;
+  justify-content: center;
 }
 
 h1,
